@@ -25,12 +25,17 @@ Navigate to the directory where you downloaded the source code and select the fi
 
 ## Usage
 Click on 'Run' in the Matlab Guide to run the application.
+
 In the application, click on the 'Load Image' button to open an image.
+
 Set the parameters for the selected function using the input boxes or slider.
+
 Select an image processing function by clicking the equivalent button.
+
 The processed image will be displayed in the output section.
 
 ## License
+Industrial Machine Vision course at Falculty of Sustainable Design Engineering
 
 ## Contact
-If you have any questions or feedback, please contact the developer at email address nguyenanhduy22101998@gmail.com.
+If you have any questions or feedback, please contact the developer at email address nguyenanhduy22101998@gmail.com
