@@ -1,5 +1,6 @@
 # Image Processing and Segmentation Application
-This is a software application developed using Matlab and Matlab Guide that implements several basic image processing and segmentation functions on gray scale images. This application allows the user to open images, apply image processing functions, and display the processed images.
+MATLAB GUI implements several basic image processing and segmentation functions without using MATLAB high-level image processing function.
+This application allows the user to open images, apply image processing functions, and display the processed images.
 
 ## Features
 Open and display images from a file selector or file list
