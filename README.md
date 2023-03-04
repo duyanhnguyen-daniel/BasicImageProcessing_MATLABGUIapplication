@@ -36,7 +36,7 @@ Select an image processing function by clicking the equivalent button.
 The processed image will be displayed in the output section.
 
 ## License
-Industrial Machine Vision course at Falculty of Sustainable Design Engineering, University of Prince Edward Island, Canada
-
+This is an assignment of Industrial Machine Vision course at Falculty of Sustainable Design Engineering, University of Prince Edward Island, Canada
+Instructor: Prof. Nicholas Krouglicof
 ## Contact
 If you have any questions or feedback, please contact the developer at email address nguyenanhduy22101998@gmail.com
