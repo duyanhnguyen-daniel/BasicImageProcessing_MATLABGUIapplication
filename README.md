@@ -7,11 +7,11 @@ Open and display images from a file selector or file list
 ![Example Image](./sobel.jpg "Example Image")
 Select from a list of basic image processing functions:
 * a. Convolution function with an arbitrary 3 by 3 kernel specified by the user. The application provides the user with several options for accommodating negative numbers and overflow including: 1) Satuarated Handling:  if the result of an operation falls outside the valid range (0-255 for 8-bit images), the value is set to the minimum or maximum valid value. 2) Scaled Handling: scaling the output values to fit within the valid range. 3) Saturated of Absolute Handling: negative values are simply set to their absolute values before using the saturated handling.
-* b. Sobel edge detection algorithm (magnitude and direction). The direction information is displayed to the user using pseudocolor.
+* b. Sobel edge detection algorithm (magnitude). 
 * c. Median filtering (3 by 3).
 * d. Gray scale transformation algorithm based on parameters specified by the user. The application displays an image histogram to help the user select the input and output ranges.
 * e. Automatic thresholding algorithm based on the image histogram. The application automatically selects a threshold using Otsu’s method and then displays the resulting binary image. An option for manually thresholding the image is also included.
-* f. Addnoise and filter the noise with DNN function in Matlab
+* f. Add noise and filter the noise with DNN function in Matlab
 
 ## Installation
 Install Matlab (R2022b version) on your computer.
