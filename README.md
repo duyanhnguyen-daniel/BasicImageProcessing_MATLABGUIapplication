@@ -10,7 +10,7 @@ Select from a list of basic image processing functions:
 * b. Sobel edge detection algorithm (magnitude and direction). The direction information is displayed to the user using pseudocolor.
 * c. Median filtering (3 by 3).
 * d. Gray scale transformation algorithm based on parameters specified by the user. The application displays an image histogram to help the user select the input and output ranges.
-* e. Automatic thresholding algorithm based on the image histogram. The application automatically selects a threshold using Otsu’s method and/or Optimal Pixel Classification and then displays the resulting binary image. An option for manually thresholding the image is also included.
+* e. Automatic thresholding algorithm based on the image histogram. The application automatically selects a threshold using Otsu’s method and then displays the resulting binary image. An option for manually thresholding the image is also included.
 * f. Addnoise and filter the noise with DNN function in Matlab
 
 ## Installation
