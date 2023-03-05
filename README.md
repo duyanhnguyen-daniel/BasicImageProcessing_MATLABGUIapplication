@@ -3,7 +3,7 @@ MATLAB GUI implements several basic image processing and segmentation functions 
 This application allows the user to open images, apply image processing functions, and display the processed images.
 
 ## Features
-Open and display images from a file selector or file list
+Open and display images from a file selector:
 ![Example Image](./sobel.jpg "Example Image")
 Select from a list of basic image processing functions:
 * a. Convolution function with an arbitrary 3 by 3 kernel specified by the user. The application provides the user with several options for accommodating negative numbers and overflow including: 1) Satuarated Handling:  if the result of an operation falls outside the valid range (0-255 for 8-bit images), the value is set to the minimum or maximum valid value. 2) Scaled Handling: scaling the output values to fit within the valid range. 3) Saturated of Absolute Handling: negative values are simply set to their absolute values before using the saturated handling.
